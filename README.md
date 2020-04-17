@@ -10,5 +10,5 @@ CollectSkills
 ## gif录制
   - GIFcam 软件
 ## github技巧 
-  ![avatar](https://file.chongbuluo.com/attachment/forum/201812/05/135303i57qjwmw87pa12kc.pngg)
+  ![img](https://file.chongbuluo.com/attachment/forum/201812/05/135303i57qjwmw87pa12kc.pngg)
   
