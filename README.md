@@ -1,5 +1,5 @@
 # skills
-CollectSkills
+CollectSkills  存储一些技巧-从各网站搬运-侵删
 # windows技巧 
   <https://www.chongbuluo.com/forum.php?mod=viewthread&tid=366>
   
