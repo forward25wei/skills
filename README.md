@@ -9,5 +9,6 @@ CollectSkills
   + 其实只需要按住“Shift”键，右键点击文件或文件夹，选择“复制为路径”就可以粘贴给你的朋友啦
 ## gif录制
   - GIFcam 软件
-## github技巧
+## github技巧 
+  ![avatar](https://file.chongbuluo.com/attachment/forum/201812/05/135303i57qjwmw87pa12kc.pngg)
   
